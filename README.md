@@ -1,5 +1,9 @@
 # COURSERA DATA EDA ANALYSIS Using Pandas and Visualization with python libraris
 ---
+### Overview
+
+The dataset is sourced from Kaggle, specifically focusing on Coursera course listings.
+It contains structured data on various online courses offered on the Coursera platform.
 
 > This dataset contains mainly 6 columns and 890 course data. The detailed description:
 
